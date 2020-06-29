@@ -1,0 +1,43 @@
+.container {
+  height: 1200px;
+  padding: 150px;
+  padding-left: 350px;
+}
+
+.formcontainer {
+  border: 1px solid #181616;
+  width: max-content;
+  padding: 70px;
+}
+
+.formitems {
+  height: max-content;
+}
+
+h3 {
+  color: #3d815f;
+  font-weight: bold;
+}
+
+table {
+  text-align: center;
+  width: max-content;
+}
+
+h2 {
+  font-weight: bold;
+  text-align: center;
+  color: #123336;
+}
+
+button {
+  color: #181616;
+  font-weight: bold;
+}
+
+.containertable {
+  height: 1200px;
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 50px;
+}
